@@ -1,0 +1,18 @@
+.button {
+  background-color: hotpink;
+  padding: 8px 12px;
+  border-radius: 4px;
+  color: white;
+  box-shadow: 0 4px 6px #0003;
+  border: none;
+}
+
+.button--big {
+  font-size: 1.2em;
+}
+
+.button--inverted {
+  background-color: white;
+  color: hotpink;
+  border: 1px solid;
+}
